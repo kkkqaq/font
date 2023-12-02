@@ -15,3 +15,7 @@
       -o-background-size: cover;
       background-position: center 0;
     }
+body {
+cursor: url(//i.loli.net/2017/08/19/5997836b66d58.png), default;
+}
+a:hover{cursor:url(//i.loli.net/2017/08/19/599783800335d.png), pointer;}
