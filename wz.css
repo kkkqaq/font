@@ -1,0 +1,18 @@
+@font-face{
+font-family: 'Ali';
+src:  url('https://bk.memoyu.top/AWan.ttf');
+src:  url('https://bk.memoyu.top/AWan.otf');
+src:  url('https://bk.memoyu.top/AWan.dfont');
+src:  url('https://bk.memoyu.top/AWan.eot');
+src:  url('https://bk.memoyu.top/AWan.svg');
+src:  url('https://bk.memoyu.top/AWan.woff');
+src:  url('https://bk.memoyu.top/AWan.woff2');
+}
+body{
+font-family:'Ali';
+}
+.enlighter-default .enlighter{max-height:400px;overflow-y:auto !important;}.lazyloading:not(.swiper-lazy-loaded){opacity: 0;}@media (max-width:640px) {
+    .meta-right .meta-view{
+      display: unset !important;
+    }
+  }
